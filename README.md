@@ -18,6 +18,7 @@ Design of a used oil furnace from a mechatronics perspective. This is an improve
 - Automatic pressurizing of oil(regulator).
 - Oil pre-heating
 - Automatic switch over from diesel+gasoline ignition to oil burning independently.
+- Smoke handling.(carbonmonoxide and smoke detectors)
 - **Safety**
 
 ## Proposed designs
@@ -41,3 +42,22 @@ Design of a used oil furnace from a mechatronics perspective. This is an improve
 **JKUAT Masters Research paper**
 
 [![Used oil furnace research](https://github.com/EricoDeMecha/DOMsUsedOilFurnace/blob/main/images/research.png)](http://ir.jkuat.ac.ke/bitstream/handle/123456789/1776/OWITI%20B.%20O.%20MSc.%202015.pdf?sequence=1&isAllowed=y)
+
+## Findings and miscelleneous  section
+1. Miscelleneous
+
+According to this guy here with his bad boy ...
+
+[![Material evidence](https://img.youtube.com/vi/Qnzh19kDVuw/0.jpg)](https://www.youtube.com/watch?v=Qnzh19kDVuw)
+
+* He has hit 1834 degrees by using silicon carbide in the burner and nozzle.
+* He is using a thermal gun for temperature measurement and not the usual temperature industrial probe.
+* Design of the nozzle
+* Running at 3L/hr
+* Design- simple design(Nozzle has blade with it, the blade closes the burner and can detached easily)
+* Burner is also surrounded with another metal sheet to tap and direct more air directly to the flame.
+
+2. Applications
+
+* House warming during winter.
+* Metal smelting.
