@@ -10,4 +10,4 @@ Design of a used oil furnace from a mechatronics perspective. This is an improve
 
 **JKUAT Masters Research paper**
 
-[![Used oil furnace research](https://github.com/EricoDeMecha/DOMsUsedOilFurnace/blob/master/images/research.png)](https://www.youtube.com/watch?v=s_Ad897si6g&list=PLajok_EjFfbOb4fP-WGI7LOqIf2R0RhqM)
+[![Used oil furnace research](https://github.com/EricoDeMecha/DOMsUsedOilFurnace/blob/main/images/research.png)](http://ir.jkuat.ac.ke/bitstream/handle/123456789/1776/OWITI%20B.%20O.%20MSc.%202015.pdf?sequence=1&isAllowed=y)
